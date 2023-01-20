@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+}
+
+h1, p {
+    text-align: center;
+}
+
+h1 {
+    display: block;
+    font-size: 32px;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    display: block;
+    font-size: 18px;
+    margin-block-start: 20px;
+    margin-block-end: 20px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+footer a {
+    margin: 0 10px;
+    color: rgb(216, 119, 8);
+}
+
+footer {
+    text-align: center;
+}
+
+.croissant-photo {
+    max-width: 100%;
+    border-radius: 5px;
+    display: block;
+    margin: 20px auto;
+}
